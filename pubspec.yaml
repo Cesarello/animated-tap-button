@@ -1,0 +1,17 @@
+name: animated_tap_button
+description: A button that animates on tap
+version: 1.0.1
+homepage: https://github.com/Cesarello/animated-tap-button
+
+environment:
+  sdk: ^3.5.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
